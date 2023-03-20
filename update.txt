@@ -1,0 +1,2 @@
+-- 0.1 -- start project
+-- 0.2 -- add loop for, loop for x2, asterix piramid
